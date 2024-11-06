@@ -1,6 +1,9 @@
 const SocialListItem = ({ icon, link }) => {
   return (
-    <a className="p-3 bg-green-300 rounded-full" href={link}>
+    <a
+      className="p-3 transition-colors bg-blue-300 rounded-full hover:bg-blue-500"
+      href={link}
+    >
       {icon}
     </a>
   );
