@@ -6,7 +6,7 @@ A simple React application that displays a personal profile card with basic info
 
 This project is a simple, responsive profile card built using React.js.
 
-![Profile Card Screenshot](path_to_your_screenshot.png)
+![Profile Card Screenshot](https://github.com/Reyshal/simple-profile-card/blob/main/my-profile-card.png)
 
 ## 🛠️ Technologies Used
 
@@ -20,7 +20,6 @@ This project is a simple, responsive profile card built using React.js.
 1. Clone the repository:
 
 ```
-bash
 git clone https://github.com/yourusername/react-profile-card.git
 ```
 
