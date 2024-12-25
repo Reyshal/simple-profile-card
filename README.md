@@ -11,8 +11,7 @@ This project is a simple, responsive profile card built using React.js.
 ## 🛠️ Technologies Used
 
 - React.js
-- CSS3
-- HTML5
+- Tailwind CSS
 - [Grommet-Icons](https://icons.grommet.io/) (for icons)
 
 ## ⚙️ Installation
