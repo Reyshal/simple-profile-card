@@ -20,7 +20,7 @@ This project is a simple, responsive profile card built using React.js.
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/react-profile-card.git
+git clone https://github.com/Reyshal/react-profile-card.git
 ```
 
 2. Navigate to the project directory:
